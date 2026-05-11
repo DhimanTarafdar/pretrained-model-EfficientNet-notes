@@ -47,7 +47,6 @@ The notebook is written in a very simple and beginner-friendly way with:
 I plan to continue learning:
 
 - ResNet
-- U-Net
 
 
 
