@@ -44,9 +44,6 @@ The notebook is written in a very simple and beginner-friendly way with:
 
 ## Future Plan
 
-I plan to continue learning:
-
-- ResNet
 
 
 
