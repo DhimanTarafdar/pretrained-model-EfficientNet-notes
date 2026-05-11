@@ -42,11 +42,6 @@ The notebook is written in a very simple and beginner-friendly way with:
 - Computer Vision
 - Neural Network Optimization
 
-## Future Plan
-
-
-
-
 ---
 
 ⭐ This repository is part of my AI/ML learning journey.
