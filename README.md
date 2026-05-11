@@ -48,7 +48,6 @@ I plan to continue learning:
 
 - ResNet
 - U-Net
-- Vision Transformers (ViT)
 
 
 
