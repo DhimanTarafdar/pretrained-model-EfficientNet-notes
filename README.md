@@ -42,7 +42,17 @@ The notebook is written in a very simple and beginner-friendly way with:
 - Computer Vision
 - Neural Network Optimization
 
+## Future Plan
+
+I plan to continue learning:
+
+- ResNet
+- U-Net
+- Vision Transformers (ViT)
+- LSTM / BiLSTM
+- Attention Mechanism
+- Medical Image Analysis using Deep Learning
+
 ---
 
 ⭐ This repository is part of my AI/ML learning journey.
-
