@@ -50,7 +50,7 @@ I plan to continue learning:
 - U-Net
 - Vision Transformers (ViT)
 - LSTM / BiLSTM
-- Attention Mechanism
+
 
 ---
 
