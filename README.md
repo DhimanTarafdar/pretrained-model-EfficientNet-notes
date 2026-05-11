@@ -51,7 +51,6 @@ I plan to continue learning:
 - Vision Transformers (ViT)
 - LSTM / BiLSTM
 - Attention Mechanism
-- Medical Image Analysis using Deep Learning
 
 ---
 
